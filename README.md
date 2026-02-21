@@ -44,7 +44,7 @@ The platform features a sleek, glassmorphic dark-mode UI with animated gradients
 
 ## 🚀 Live Demo
 
-> get-me-a-chai-navy.vercel.app
+> https://get-me-a-chai-navy.vercel.app
 
 ---
 
